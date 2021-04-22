@@ -1,8 +1,8 @@
 # Analog-to-Digital-Conversion-Examples
 
 These are a series of notebook that I have developed to explain in my course the concept of digitalization of a continous analog signal.   
-The first notabook L08 is about sampling frequency, aliasing, Nyquist theorem and sample and hold.  
-The second notebook is about signal quantization with an hypothetical encoder. 
+The first notebook (L08) is about sampling frequency, aliasing, Nyquist theorem and sample and hold.  
+The second notebook (L10) is about signal quantization with an hypothetical encoder. 
 Feel free to contact me for questions.  
 
 
